@@ -22,7 +22,7 @@ Ngrok可参考我另一篇文章：搭建ngrok服务器，实现内网穿透服�
 
 ### **2：下载解压安装包**
 
-github地址：https://github.com/fatedier/frp，可以在 Release 页面中下载到最新版本的客户端和服务端二进制文件，所有文件被打包在一个压缩包中。
+github地址：[https://github.com/fatedier/frp](https://github.com/fatedier/frp),可以在 Release 页面中下载到最新版本的客户端和服务端二进制文件，所有文件被打包在一个压缩包中。
 
 找到自己Linux合适的版本，下载，主流Linux版本基本上都是amd64。
 
